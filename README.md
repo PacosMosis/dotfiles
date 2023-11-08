@@ -1,5 +1,3 @@
-![fish screenshot](./pictures/screenshot-fish.png)
-
 # Francisco's dotfiles
 
 **Warning**: Don’t blindly use my settings unless you know what you are doing. Use at your own risk!
@@ -24,6 +22,7 @@
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 - [Neovim](https://neovim.io/) (>= 0.8)
+- [Alacritty](https://alacritty.org/)
 
 ## Neovim setup
 
@@ -55,8 +54,10 @@
 - [Exa](https://the.exa.website/) - `ls` replacement
 
 ## Alacritty setup
-
 - [Alacritty terminal](https://alacritty.org/) - Modern GPU Accelerated terminal
 
 ## Tmux setup
 - [Tmux](https://en.wikipedia.org/wiki/Tmux) - Terminal multiplexer for UNIX systems
+
+
+![neovim screenshot](./pictures/screenshot-fish.png)
