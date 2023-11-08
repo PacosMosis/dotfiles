@@ -50,7 +50,7 @@
 ## Shell setup (Linux)
 
 - [Fish shell](https://fishshell.com/) - Modern shell for UNIX systems
-- [Fish customization](github.com/oh-my-fish/oh-my-fish) - Themes and plugins. I use "z"
+- [Fish customization](https://github.com/oh-my-fish/oh-my-fish) - Themes and plugins. I use "z"
 - [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts. I use "CaskaydiaCove"
 - [Exa](https://the.exa.website/) - `ls` replacement
 
