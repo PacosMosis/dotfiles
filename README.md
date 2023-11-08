@@ -13,11 +13,19 @@
 - fish config
 - alacritty config
 
+## Requirements
+
+- [Git](https://git-scm.com/)
+- [Nodejs](https://nodejs.org/en)
+- [NPM](https://www.npmjs.com/)
+- [Unzip](https://archlinux.org/packages/extra/x86_64/unzip/)
+- [Curl](https://curl.se/)
+- [Fish](https://fishshell.com/)
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+- [Neovim](https://neovim.io/) (>= 0.8)
+
 ## Neovim setup
-
-Requires [Neovim](https://neovim.io/) (>= 0.8)
-
-![neovim screenshot](./pictures/screenshot-neovim.png)
 
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A plugin manager for Neovim
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters
@@ -36,6 +44,8 @@ Requires [Neovim](https://neovim.io/) (>= 0.8)
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - A high-performance color highlighter
 - [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) - A truecolor, solarized dark colorscheme
 - [tjdevries/colorbuddy.nvim](github.com/tjdevries/colorbuddy.nvim) - A colorscheme helper for Neovim
+
+![neovim screenshot](./pictures/screenshot-neovim.png)
 
 ## Shell setup (Linux)
 
