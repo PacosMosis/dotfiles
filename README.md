@@ -7,7 +7,7 @@
 ## Contents
 
 - [Vim](https://www.vim.org/) ([NeoVim](https://neovim.io/)) config
-- [Tmux](https://en.wikipedia.org/wiki/Tmux) config
+- [Tmux](https://github.com/tmux/tmux) config
 - [Fish](https://fishshell.com/) config
 - [Alacritty](https://alacritty.org/) config
 
@@ -23,7 +23,7 @@
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 - [Neovim](https://neovim.io/) (>= 0.8)
 - [Alacritty](https://alacritty.org/)
-- [Tmux](https://en.wikipedia.org/wiki/Tmux)
+- [Tmux](https://github.com/tmux/tmux)
 
 ## Neovim setup
 
@@ -58,7 +58,7 @@
 - [Alacritty terminal](https://alacritty.org/) - Modern GPU Accelerated terminal
 
 ## Tmux setup
-- [Tmux](https://en.wikipedia.org/wiki/Tmux) - Terminal multiplexer for UNIX systems
+- [Tmux](https://github.com/tmux/tmux) - Terminal multiplexer for UNIX systems
 
 
 ![neovim screenshot](./pictures/screenshot-fish.png)
