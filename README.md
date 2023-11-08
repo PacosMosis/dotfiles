@@ -11,6 +11,7 @@
 - vim (NeoVim) config
 - tmux config
 - fish config
+- alacritty config
 
 ## Neovim setup
 
