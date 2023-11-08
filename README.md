@@ -6,10 +6,10 @@
 
 ## Contents
 
-- vim (NeoVim) config
-- tmux config
-- fish config
-- alacritty config
+- [Vim](https://www.vim.org/) ([NeoVim](https://neovim.io/)) config
+- [Tmux](https://en.wikipedia.org/wiki/Tmux) config
+- [Fish](https://fishshell.com/) config
+- [Alacritty](https://alacritty.org/) config
 
 ## Requirements
 
@@ -23,6 +23,7 @@
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 - [Neovim](https://neovim.io/) (>= 0.8)
 - [Alacritty](https://alacritty.org/)
+- [Tmux](https://en.wikipedia.org/wiki/Tmux)
 
 ## Neovim setup
 
